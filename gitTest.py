@@ -4,7 +4,7 @@ Created on Mon Jul  1 17:16:33 2024
 
 @author: USER
 """
-print("feature branch")
+print("merge test")
 print("2nd test")
 print("test")
 print("enter number")
